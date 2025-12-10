@@ -16,7 +16,7 @@ header h1 {
 }
 
 .navbar .navbar-nav .nav-link:hover {
-  color: #dc3545;
+  color: #214A97;
 }
 
 .navbar .navbar-nav .nav-link:focus {
@@ -41,7 +41,7 @@ nav .navbar-toggler:focus {
 
 .footer-social-icons svg {
   font-size: 2.5rem;
-  color: #dc3545;
+  color: #214A97;
 }
 
 .footer-social-icons svg:hover {
