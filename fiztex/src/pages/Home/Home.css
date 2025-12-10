@@ -1,5 +1,5 @@
 .home-page header {
-    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/home-page-header.jpg);
+    background: linear-gradient(90deg, #214A97 0%, #A4BFFF 100%), url(../../utils/images/home-page-header.jpg);
 }
 
 .home-page header p {
@@ -12,7 +12,7 @@ header {
 }
 
 .blog-section {
-    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/blog-section-img.jpg);
+    background: linear-gradient(90deg, #214A97 0%, #A4BFFF 100%), url(../../utils/images/blog-section-img.jpg);
     background-size: cover;
     background-position: center;
 }
